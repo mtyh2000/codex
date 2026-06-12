@@ -20,3 +20,11 @@ __pycache__/
 # Temporary archives or exports
 *.tmp
 *.bak
+
+# Optional static-site / Jekyll leftovers
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+/vendor
+Gemfile.lock
