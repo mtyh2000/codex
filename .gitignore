@@ -1,0 +1,22 @@
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Office temp files
+~$*
+
+# Local extraction and scratch data
+doc_extract/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local app state
+.codex/
+.agents/
+
+# Temporary archives or exports
+*.tmp
+*.bak
