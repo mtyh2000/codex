@@ -1,0 +1,7 @@
+interface:
+  display_name: "聚龙项目总控助手"
+  short_description: "按你的节奏推进智慧农业项目"
+  default_prompt: "Use $julong-project-copilot to continue the 智慧农业 project in the user's established total-control plus five-branch workflow."
+
+policy:
+  allow_implicit_invocation: true
